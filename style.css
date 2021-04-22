@@ -1,0 +1,65 @@
+body {
+font-family: 'Special Elite', cursive;
+background-color: aqua;
+    } 
+.heading-div{
+     background-color:aliceblue;
+     color: darkcyan;
+         }
+.heading-div img {
+   width: 100px;
+}
+.livewebcam {
+    background-color: blueviolet;
+    margin-top: 20px;
+    color: darkblue;
+    padding: 10px;
+    box-shadow: 5px 10px 20px red;
+   }
+ .livewebcam label {
+     background-color: white ;
+     width: 300px;
+     padding:5px;
+     box-shadow: 5px 7px 10px purple;  
+     font-size: 35px;
+ }
+#cameraUwU, #resultUwU {
+    border:2px dashed burlywood;
+    width: 300px;
+    height:300px;
+    box-shadow: 5px 10px 9px yellow;
+}
+.livewebcam button {
+    width:300px;
+    font-size:18px;
+    border:2px ridge brown;
+    margin-top:15px;
+
+}
+ 
+.footer-div {
+   margin-bottom:50px;
+}
+
+.footer-div img{
+    width:70px ;
+}
+
+.footer-div h4 {
+    background-color: whitesmoke;
+    padding:5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px wheat;
+    }
+
+.my_footer {
+    position:fixed;
+    bottom:0;
+    text-align:center;
+    box-shadow: 5px 5px 18px gray;
+    background-color: black;
+    color: yellow;
+    width:100%;
+    line-height: 3;
+
+}
